@@ -1,4 +1,4 @@
-name:pabbu jaitha
+name:jaitha pabbu
 id:CT08SP1098
 domain:java programming
 duration:4 weeks
